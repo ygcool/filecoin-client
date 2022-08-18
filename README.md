@@ -1,6 +1,7 @@
 # filecoin-client
+> fork : [myxtype/filecoin-client](https://github.com/myxtype/filecoin-client)
 
-[![goproxy.cn](https://goproxy.cn/stats/github.com/myxtype/filecoin-client/badges/download-count.svg)](https://goproxy.cn)
+[![goproxy.cn](https://goproxy.cn/stats/github.com/ygcool/filecoin-client/badges/download-count.svg)](https://goproxy.cn)
 
 需要自行部署Lotus Node节点：https://lotu.sh/en+getting-started
 
